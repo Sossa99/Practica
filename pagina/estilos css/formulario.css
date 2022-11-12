@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://fondosmil.com/fondo/27475.jpg);
+}
+
+h1{
+    font-family: sans-serif;
+    background-color: rgba(9, 244, 99, 0.483);
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+
+input{
+    font-size: 20px;
+}
+
+#boton:hover{
+    background-color: rgba(0, 8, 250, 0.338);
+    cursor: pointer;
+    border: 1px solid black;
+
+}
+
+section{
+    background-color: rgba(9, 244, 99, 0.483);
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+}
